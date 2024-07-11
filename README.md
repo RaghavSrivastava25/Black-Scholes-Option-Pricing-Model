@@ -1,6 +1,7 @@
 # Black-Scholes Option Pricing Model
 
-![Black-Scholes Option Pricing Model](https://github.com/RaghavSrivastava25/Black-Scholes-Option-Pricing-Model/assets/Screenshot.png)
+
+![img](https://github.com/RaghavSrivastava25/Black-Scholes-Option-Pricing-Model/assets/95379922/b1d4d15e-dd35-4732-817c-477ccba1b568)
 
 This Streamlit application implements the Black-Scholes option pricing model, allowing users to calculate and visualize option prices and their sensitivities based on various input parameters.
 
